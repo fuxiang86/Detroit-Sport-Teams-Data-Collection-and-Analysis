@@ -13,6 +13,8 @@ The City of Detroit is famous and has a long history, I am going to find some da
 
 ![](/Sport%20Team_2.png)
 
+![](/Sport%20Team_4.png)
+
 #### Conclusion 
 The data of four sport teams of Detroit exhibits the win rate changes of all teams in a long-term period of 1948 - 2019.
 On the overview, all of the teams have a long history and long-recorded of performance. But each Detroit sport team's average win rate is lower than 50%. The historic average win rate of all teams are in range of 40%-60%, however, it began to drop since 2015.
